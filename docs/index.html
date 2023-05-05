@@ -12,23 +12,26 @@
   <main class="container">
     <h1>Top third party initiators visualized</h1>
     <p>This page visualizes top third party domains found on the web connected by their top initiators.</p>
-    <p><i>e.g. since resources from google-analytics.com are loaded by googletagmanager.com in 65% of the cases, those
-        two will be connected by an arrow pointing from google-analytics.com to googletagmanager.com. Since
-        cloudflare.com is mainly loaded directly by sites and doesn't load any other resources from big third-party
-        domains, it will have no arrows pointing at or from it.</i></p>
+    <p><cite>e.g. since resources from <u>google-analytics.com</u> are mostly loaded via <u>googletagmanager.com</u>, those
+        two will be connected by an arrow pointing from <u>google-analytics.com</u> to <u>googletagmanager.com</u>. Since
+        <u>cloudflare.com</u> is mainly loaded directly by sites and doesn't load any other resources from big third-party
+        domains, it will have no arrows pointing at or from it.</cite></p>
     <ul>
       <li>Size of a node reflects how prevalent given domain is as a third party on the web.</li>
-      <li>Only domains with prevalence >= 0.5% are visualized.</li>
+      <li>Only domains with prevalence ≧ 0.5﹪ are visualized.</li>
       <li>Nodes representing domains owned by five biggest companies (Google, Facebook, Microsoft, Amazon, Adobe) are
         color-coded.</li>
       <li>Visualization based on April 2023 snapshot of <a
           href='https://github.com/duckduckgo/tracker-radar/releases/tag/2023.04'>DuckDuckGo's Tracker Radar</a>.</li>
-      <li>Interactive graph via <a href="https://www.npmjs.com/package/force-graph">force-graph</a>.</li>
     </ul>
 
     <article>
       <div id="graph"></div>
     </article>
+
+    <footer>
+      <small>Code can be found at <a href='https://github.com/kdzwinel/initiator-graph' class='secondary'>kdzwinel/initiator-graph</a>. Interactive graph via <a href="https://www.npmjs.com/package/force-graph" class='secondary'>force-graph</a>, CSS styles via <a href='https://picocss.com' class='secondary'>picocss.com</a>.</small>
+    </footer>
 
   </main>
 
