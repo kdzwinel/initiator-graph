@@ -20,7 +20,7 @@ const entityFiles = getListOfJSONPathsFromFolder(TRACKER_RADAR_ENTITIES_PATH);
 const progressBar = new ProgressBar('[:bar] :percent ETA :etas :file', {
     complete: chalk.green('='),
     incomplete: ' ',
-    total: domainFiles.length + entityFiles.length,
+    total: domainFiles.length,
     width: 30
 });
 
@@ -54,22 +54,27 @@ domainFiles.forEach(({file, resolvedPath}) => {
 
     if (!nodesMap.has(data.domain)) {
         let group = 'other';
+        let label = data.domain;
 
         if (data.owner && ['Google', 'Microsoft', 'Facebook', 'Amazon.com', 'Adobe'].includes(data.owner.displayName)) {
             group = data.owner.displayName;
         }
 
-        nodesMap.set(data.domain, {id: data.domain, label: `${data.domain} (${data.owner.displayName})`, group, val: data.prevalence * 10});
+        if (data.owner && (data.owner.name || data.owner.displayName)) {
+            label += ` (${(data.owner.name || data.owner.displayName)})`
+        }
+
+        nodesMap.set(data.domain, {id: data.domain, label, group, val: data.prevalence * 10});
     }
 
     if (data.topInitiators && data.topInitiators.length) {
-        const topTarget = Object.values(data.topInitiators)[0].domain;
+        const topInitiator = Object.values(data.topInitiators)[0];
 
-        if (topTarget !== 'first party') {
+        if (topInitiator.domain !== 'first party') {
             output.links.push({
                 source: data.domain,
-                target: topTarget,
-                value: 1
+                target: topInitiator.domain,
+                value: topInitiator.prevalence
             });
         }
     }

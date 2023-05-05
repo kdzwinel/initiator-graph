@@ -3,7 +3,7 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="./pico-slim.css" />
+  <link rel="stylesheet" href="./pico.min.css" />
   <script src="./force-graph.js"></script>
 </head>
 
@@ -11,7 +11,10 @@
   <main class="container">
     <h1>Top third party initiators vizualized</h1>
     <p>This page vizualizes top third party domains found on the web connected by their top initiators.</p>
-    <p><i>e.g. since resources from google-analytics.com are loaded by googletagmanager.com in 65% of the cases, those two will be connected by an arrow pointing from google-analytics.com to googletagmanager.com. Since cloudflare.com is mainly loaded directly by sites and doesn't load any other resources from big third-party domains, it will have no arrows pointing at or from it.</i></p>
+    <p><i>e.g. since resources from google-analytics.com are loaded by googletagmanager.com in 65% of the cases, those
+        two will be connected by an arrow pointing from google-analytics.com to googletagmanager.com. Since
+        cloudflare.com is mainly loaded directly by sites and doesn't load any other resources from big third-party
+        domains, it will have no arrows pointing at or from it.</i></p>
     <ul>
       <li>Size of a node reflects how prevalent given domain is as a third party on the web.</li>
       <li>Only domains with prevalence >= 0.5% are visualized.</li>
@@ -22,18 +25,18 @@
       <li>Interactive graph via <a href="https://www.npmjs.com/package/force-graph">force-graph</a>.</li>
     </ul>
 
+    <article>
+      <div id="graph"></div>
+    </article>
+
   </main>
-
-  <hr />
-
-  <div id="graph"></div>
-
-  <hr />
 
   <script>
     fetch('./output.json').then(res => res.json()).then(data => {
+      const graphEl = document.getElementById('graph');
+
       const Graph = ForceGraph()
-        (document.getElementById('graph'))
+        (graphEl)
         .graphData(data)
         .nodeId('id')
         .nodeVal('val')
@@ -41,7 +44,10 @@
         .nodeAutoColorBy('group')
         .linkSource('source')
         .linkTarget('target')
-        .linkDirectionalArrowLength(4)
+        .linkDirectionalArrowLength(10)
+        .width(graphEl.getBoundingClientRect().width)
+        .onNodeClick(node => window.open(`https://slayterdev.github.io/tracker-radar-wiki/domains/${node.id}.html`));
+
     });
   </script>
 </body>
