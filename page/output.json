@@ -1,0 +1,4096 @@
+{
+  "nodes": [
+    {
+      "id": "1rx.io",
+      "label": "1rx.io (RhythmOne)",
+      "group": "other",
+      "val": 1.03
+    },
+    {
+      "id": "2mdn.net",
+      "label": "2mdn.net (Google)",
+      "group": "Google",
+      "val": 0.518
+    },
+    {
+      "id": "33across.com",
+      "label": "33across.com (33Across)",
+      "group": "other",
+      "val": 0.897
+    },
+    {
+      "id": "360yield.com",
+      "label": "360yield.com (Improve Digital)",
+      "group": "other",
+      "val": 1.07
+    },
+    {
+      "id": "3lift.com",
+      "label": "3lift.com (TripleLift)",
+      "group": "other",
+      "val": 1.56
+    },
+    {
+      "id": "4dex.io",
+      "label": "4dex.io (Adagio)",
+      "group": "other",
+      "val": 0.327
+    },
+    {
+      "id": "a-mo.net",
+      "label": "a-mo.net (Monet Engine)",
+      "group": "other",
+      "val": 0.363
+    },
+    {
+      "id": "a-mx.com",
+      "label": "a-mx.com (Monet Engine)",
+      "group": "other",
+      "val": 0.154
+    },
+    {
+      "id": "acsbapp.com",
+      "label": "acsbapp.com (accessiBe)",
+      "group": "other",
+      "val": 0.118
+    },
+    {
+      "id": "acuityplatform.com",
+      "label": "acuityplatform.com (AcuityAds)",
+      "group": "other",
+      "val": 0.395
+    },
+    {
+      "id": "ad-delivery.net",
+      "label": "ad-delivery.net (easyAd Deutschland GmbH)",
+      "group": "other",
+      "val": 0.31899999999999995
+    },
+    {
+      "id": "ad.gt",
+      "label": "ad.gt (Audigent)",
+      "group": "other",
+      "val": 0.34299999999999997
+    },
+    {
+      "id": "addthis.com",
+      "label": "addthis.com (Oracle)",
+      "group": "other",
+      "val": 0.46499999999999997
+    },
+    {
+      "id": "addthisedge.com",
+      "label": "addthisedge.com (Oracle)",
+      "group": "other",
+      "val": 0.217
+    },
+    {
+      "id": "addtoany.com",
+      "label": "addtoany.com (AddToAny)",
+      "group": "other",
+      "val": 0.12
+    },
+    {
+      "id": "adentifi.com",
+      "label": "adentifi.com (AdTheorent)",
+      "group": "other",
+      "val": 0.659
+    },
+    {
+      "id": "adform.net",
+      "label": "adform.net (Adform)",
+      "group": "other",
+      "val": 0.9279999999999999
+    },
+    {
+      "id": "adgrx.com",
+      "label": "adgrx.com (AdGear)",
+      "group": "other",
+      "val": 0.597
+    },
+    {
+      "id": "adingo.jp",
+      "label": "adingo.jp (fluct)",
+      "group": "other",
+      "val": 0.09440000000000001
+    },
+    {
+      "id": "adition.com",
+      "label": "adition.com (Virtual Minds)",
+      "group": "other",
+      "val": 0.144
+    },
+    {
+      "id": "adkernel.com",
+      "label": "adkernel.com (Adkernel)",
+      "group": "other",
+      "val": 0.6809999999999999
+    },
+    {
+      "id": "adlightning.com",
+      "label": "adlightning.com (Ad Lightning)",
+      "group": "other",
+      "val": 0.0882
+    },
+    {
+      "id": "admanmedia.com",
+      "label": "admanmedia.com (ADman Media)",
+      "group": "other",
+      "val": 0.596
+    },
+    {
+      "id": "admedo.com",
+      "label": "admedo.com (Admedo)",
+      "group": "other",
+      "val": 0.14800000000000002
+    },
+    {
+      "id": "admixer.net",
+      "label": "admixer.net (Admixer)",
+      "group": "other",
+      "val": 0.19
+    },
+    {
+      "id": "adnxs.com",
+      "label": "adnxs.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 2.3499999999999996
+    },
+    {
+      "id": "adobedtm.com",
+      "label": "adobedtm.com (Adobe)",
+      "group": "Adobe",
+      "val": 0.32099999999999995
+    },
+    {
+      "id": "adotmob.com",
+      "label": "adotmob.com (A.Mob)",
+      "group": "other",
+      "val": 0.0532
+    },
+    {
+      "id": "adroll.com",
+      "label": "adroll.com (AdRoll)",
+      "group": "other",
+      "val": 0.22499999999999998
+    },
+    {
+      "id": "ads-twitter.com",
+      "label": "ads-twitter.com (Twitter)",
+      "group": "other",
+      "val": 0.47300000000000003
+    },
+    {
+      "id": "adsafeprotected.com",
+      "label": "adsafeprotected.com (Integral Ad Science)",
+      "group": "other",
+      "val": 0.376
+    },
+    {
+      "id": "adscale.de",
+      "label": "adscale.de (Ströer Group)",
+      "group": "other",
+      "val": 0.174
+    },
+    {
+      "id": "adsrvr.org",
+      "label": "adsrvr.org (The Trade Desk)",
+      "group": "other",
+      "val": 2.2800000000000002
+    },
+    {
+      "id": "adswizz.com",
+      "label": "adswizz.com (Sirius XM)",
+      "group": "other",
+      "val": 0.428
+    },
+    {
+      "id": "adsymptotic.com",
+      "label": "adsymptotic.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.294
+    },
+    {
+      "id": "adthrive.com",
+      "label": "adthrive.com (AdThrive)",
+      "group": "other",
+      "val": 0.15800000000000003
+    },
+    {
+      "id": "advertising.com",
+      "label": "advertising.com (Verizon Media)",
+      "group": "other",
+      "val": 0.165
+    },
+    {
+      "id": "afcdn.net",
+      "label": "afcdn.net (ExoClick)",
+      "group": "other",
+      "val": 0.25
+    },
+    {
+      "id": "affec.tv",
+      "label": "affec.tv (Affectv)",
+      "group": "other",
+      "val": 0.2
+    },
+    {
+      "id": "agkn.com",
+      "label": "agkn.com (Neustar)",
+      "group": "other",
+      "val": 0.8200000000000001
+    },
+    {
+      "id": "ahacdn.me",
+      "label": "ahacdn.me (undefined)",
+      "group": "other",
+      "val": 0.05
+    },
+    {
+      "id": "ajax.googleapis.com",
+      "label": "ajax.googleapis.com (Google)",
+      "group": "Google",
+      "val": 1.19
+    },
+    {
+      "id": "akstat.io",
+      "label": "akstat.io (Akamai)",
+      "group": "other",
+      "val": 0.129
+    },
+    {
+      "id": "alcmpn.com",
+      "label": "alcmpn.com (ALC)",
+      "group": "other",
+      "val": 0.16699999999999998
+    },
+    {
+      "id": "amazon-adsystem.com",
+      "label": "amazon-adsystem.com (Amazon.com)",
+      "group": "Amazon.com",
+      "val": 1.6800000000000002
+    },
+    {
+      "id": "amazon.dev",
+      "label": "amazon.dev (undefined)",
+      "group": "other",
+      "val": 0.842
+    },
+    {
+      "id": "amplitude.com",
+      "label": "amplitude.com (Amplitude)",
+      "group": "other",
+      "val": 0.07289999999999999
+    },
+    {
+      "id": "ampproject.org",
+      "label": "ampproject.org (Google)",
+      "group": "Google",
+      "val": 0.227
+    },
+    {
+      "id": "amung.us",
+      "label": "amung.us (whos.amung.us)",
+      "group": "other",
+      "val": 0.051000000000000004
+    },
+    {
+      "id": "aniview.com",
+      "label": "aniview.com (ANIVIEW)",
+      "group": "other",
+      "val": 0.10500000000000001
+    },
+    {
+      "id": "appier.net",
+      "label": "appier.net (Appier)",
+      "group": "other",
+      "val": 0.242
+    },
+    {
+      "id": "aspnetcdn.com",
+      "label": "aspnetcdn.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.0564
+    },
+    {
+      "id": "atemda.com",
+      "label": "atemda.com (Admeta)",
+      "group": "other",
+      "val": 0.053
+    },
+    {
+      "id": "attentivemobile.com",
+      "label": "attentivemobile.com (Attentive Mobile)",
+      "group": "other",
+      "val": 0.123
+    },
+    {
+      "id": "attn.tv",
+      "label": "attn.tv (Attentive Mobile)",
+      "group": "other",
+      "val": 0.127
+    },
+    {
+      "id": "aucdn.net",
+      "label": "aucdn.net (ExoClick)",
+      "group": "other",
+      "val": 0.07100000000000001
+    },
+    {
+      "id": "audrte.com",
+      "label": "audrte.com (Audiencerate)",
+      "group": "other",
+      "val": 0.08279999999999998
+    },
+    {
+      "id": "avct.cloud",
+      "label": "avct.cloud (Avocet Systems)",
+      "group": "other",
+      "val": 0.164
+    },
+    {
+      "id": "bazaarvoice.com",
+      "label": "bazaarvoice.com (Bazaarvoice)",
+      "group": "other",
+      "val": 0.07590000000000001
+    },
+    {
+      "id": "betweendigital.com",
+      "label": "betweendigital.com (SSP Network)",
+      "group": "other",
+      "val": 0.245
+    },
+    {
+      "id": "bfmio.com",
+      "label": "bfmio.com (Beachfront Media)",
+      "group": "other",
+      "val": 0.558
+    },
+    {
+      "id": "bidr.io",
+      "label": "bidr.io (Beeswax)",
+      "group": "other",
+      "val": 1.1
+    },
+    {
+      "id": "bidswitch.net",
+      "label": "bidswitch.net (IPONWEB)",
+      "group": "other",
+      "val": 1.6800000000000002
+    },
+    {
+      "id": "bidtheatre.com",
+      "label": "bidtheatre.com (BidTheatre)",
+      "group": "other",
+      "val": 0.207
+    },
+    {
+      "id": "bing.com",
+      "label": "bing.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 1.53
+    },
+    {
+      "id": "bkrtx.com",
+      "label": "bkrtx.com (Oracle)",
+      "group": "other",
+      "val": 0.23099999999999998
+    },
+    {
+      "id": "blismedia.com",
+      "label": "blismedia.com (Blis)",
+      "group": "other",
+      "val": 0.298
+    },
+    {
+      "id": "bluecava.com",
+      "label": "bluecava.com (ALC)",
+      "group": "other",
+      "val": 0.183
+    },
+    {
+      "id": "blueconic.net",
+      "label": "blueconic.net (BlueConic)",
+      "group": "other",
+      "val": 0.0504
+    },
+    {
+      "id": "bluekai.com",
+      "label": "bluekai.com (Oracle)",
+      "group": "other",
+      "val": 1.43
+    },
+    {
+      "id": "bncloudfl.com",
+      "label": "bncloudfl.com (undefined)",
+      "group": "other",
+      "val": 0.053899999999999997
+    },
+    {
+      "id": "bootstrapcdn.com",
+      "label": "bootstrapcdn.com (StackPath)",
+      "group": "other",
+      "val": 0.611
+    },
+    {
+      "id": "bounceexchange.com",
+      "label": "bounceexchange.com (Bounce Exchange)",
+      "group": "other",
+      "val": 0.0864
+    },
+    {
+      "id": "brand-display.com",
+      "label": "brand-display.com (Knorex)",
+      "group": "other",
+      "val": 0.128
+    },
+    {
+      "id": "brandmetrics.com",
+      "label": "brandmetrics.com (Brandmetrics)",
+      "group": "other",
+      "val": 0.164
+    },
+    {
+      "id": "btloader.com",
+      "label": "btloader.com (Blockthrough)",
+      "group": "other",
+      "val": 0.315
+    },
+    {
+      "id": "bttrack.com",
+      "label": "bttrack.com (Bidtellect)",
+      "group": "other",
+      "val": 0.29000000000000004
+    },
+    {
+      "id": "bugsnag.com",
+      "label": "bugsnag.com (Bugsnag)",
+      "group": "other",
+      "val": 0.053
+    },
+    {
+      "id": "casalemedia.com",
+      "label": "casalemedia.com (Index Exchange)",
+      "group": "other",
+      "val": 1.73
+    },
+    {
+      "id": "chartbeat.com",
+      "label": "chartbeat.com (Chartbeat)",
+      "group": "other",
+      "val": 0.21100000000000002
+    },
+    {
+      "id": "chartbeat.net",
+      "label": "chartbeat.net (Chartbeat)",
+      "group": "other",
+      "val": 0.20600000000000002
+    },
+    {
+      "id": "chaturbate.com",
+      "label": "chaturbate.com (Chaturbate)",
+      "group": "other",
+      "val": 0.0547
+    },
+    {
+      "id": "chimpstatic.com",
+      "label": "chimpstatic.com (Intuit)",
+      "group": "other",
+      "val": 0.09599999999999999
+    },
+    {
+      "id": "chocolateplatform.com",
+      "label": "chocolateplatform.com (Vdopia)",
+      "group": "other",
+      "val": 0.0598
+    },
+    {
+      "id": "cintnetworks.com",
+      "label": "cintnetworks.com (Cint)",
+      "group": "other",
+      "val": 0.0638
+    },
+    {
+      "id": "clarity.ms",
+      "label": "clarity.ms (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.377
+    },
+    {
+      "id": "clarium.io",
+      "label": "clarium.io (ClarityAd)",
+      "group": "other",
+      "val": 0.0613
+    },
+    {
+      "id": "clean.gg",
+      "label": "clean.gg (undefined)",
+      "group": "other",
+      "val": 0.0502
+    },
+    {
+      "id": "clickagy.com",
+      "label": "clickagy.com (Clickagy)",
+      "group": "other",
+      "val": 0.353
+    },
+    {
+      "id": "clickcertain.com",
+      "label": "clickcertain.com (ClickCertain)",
+      "group": "other",
+      "val": 0.0892
+    },
+    {
+      "id": "cloudflare.com",
+      "label": "cloudflare.com (Cloudflare)",
+      "group": "other",
+      "val": 1.55
+    },
+    {
+      "id": "cloudflare.net",
+      "label": "cloudflare.net (undefined)",
+      "group": "other",
+      "val": 0.09090000000000001
+    },
+    {
+      "id": "cloudflareinsights.com",
+      "label": "cloudflareinsights.com (Cloudflare)",
+      "group": "other",
+      "val": 0.5539999999999999
+    },
+    {
+      "id": "cloudinary.com",
+      "label": "cloudinary.com (Cloudinary)",
+      "group": "other",
+      "val": 0.0935
+    },
+    {
+      "id": "cognitivlabs.com",
+      "label": "cognitivlabs.com (Cognitiv)",
+      "group": "other",
+      "val": 0.553
+    },
+    {
+      "id": "colossusssp.com",
+      "label": "colossusssp.com (Colossus Media)",
+      "group": "other",
+      "val": 0.333
+    },
+    {
+      "id": "company-target.com",
+      "label": "company-target.com (Demandbase)",
+      "group": "other",
+      "val": 0.15800000000000003
+    },
+    {
+      "id": "confiant-integrations.net",
+      "label": "confiant-integrations.net (undefined)",
+      "group": "other",
+      "val": 0.376
+    },
+    {
+      "id": "connatix.com",
+      "label": "connatix.com (Connatix)",
+      "group": "other",
+      "val": 0.141
+    },
+    {
+      "id": "consensu.org",
+      "label": "consensu.org (IAB Europe)",
+      "group": "other",
+      "val": 0.174
+    },
+    {
+      "id": "contentsquare.net",
+      "label": "contentsquare.net (ContentSquare)",
+      "group": "other",
+      "val": 0.062
+    },
+    {
+      "id": "contextweb.com",
+      "label": "contextweb.com (Pulsepoint)",
+      "group": "other",
+      "val": 1.18
+    },
+    {
+      "id": "cookiebot.com",
+      "label": "cookiebot.com (Cybot)",
+      "group": "other",
+      "val": 0.16299999999999998
+    },
+    {
+      "id": "cookielaw.org",
+      "label": "cookielaw.org (OneTrust)",
+      "group": "other",
+      "val": 0.6419999999999999
+    },
+    {
+      "id": "cookieless-data.com",
+      "label": "cookieless-data.com (undefined)",
+      "group": "other",
+      "val": 0.0543
+    },
+    {
+      "id": "cookiepro.com",
+      "label": "cookiepro.com (OneTrust)",
+      "group": "other",
+      "val": 0.0518
+    },
+    {
+      "id": "cpmstar.com",
+      "label": "cpmstar.com (Tactics Network)",
+      "group": "other",
+      "val": 0.151
+    },
+    {
+      "id": "cpx.to",
+      "label": "cpx.to (Captify)",
+      "group": "other",
+      "val": 0.14200000000000002
+    },
+    {
+      "id": "cquotient.com",
+      "label": "cquotient.com (Salesforce.com)",
+      "group": "other",
+      "val": 0.0739
+    },
+    {
+      "id": "crazyegg.com",
+      "label": "crazyegg.com (Crazy Egg)",
+      "group": "other",
+      "val": 0.254
+    },
+    {
+      "id": "creative-serving.com",
+      "label": "creative-serving.com (Platform161)",
+      "group": "other",
+      "val": 0.198
+    },
+    {
+      "id": "creativecdn.com",
+      "label": "creativecdn.com (RTB House)",
+      "group": "other",
+      "val": 1.04
+    },
+    {
+      "id": "criteo.com",
+      "label": "criteo.com (Criteo)",
+      "group": "other",
+      "val": 1.61
+    },
+    {
+      "id": "criteo.net",
+      "label": "criteo.net (Criteo)",
+      "group": "other",
+      "val": 0.8019999999999999
+    },
+    {
+      "id": "crsspxl.com",
+      "label": "crsspxl.com (Cross Pixel Media)",
+      "group": "other",
+      "val": 0.20500000000000002
+    },
+    {
+      "id": "crwdcntrl.net",
+      "label": "crwdcntrl.net (Lotame Solutions)",
+      "group": "other",
+      "val": 1.49
+    },
+    {
+      "id": "ctfassets.net",
+      "label": "ctfassets.net (Contentful)",
+      "group": "other",
+      "val": 0.0688
+    },
+    {
+      "id": "ctnsnet.com",
+      "label": "ctnsnet.com (Crimtan Holdings)",
+      "group": "other",
+      "val": 0.297
+    },
+    {
+      "id": "cxense.com",
+      "label": "cxense.com (Piano Software)",
+      "group": "other",
+      "val": 0.0742
+    },
+    {
+      "id": "datadoghq-browser-agent.com",
+      "label": "datadoghq-browser-agent.com (Datadog)",
+      "group": "other",
+      "val": 0.061000000000000006
+    },
+    {
+      "id": "deepintent.com",
+      "label": "deepintent.com (DeepIntent)",
+      "group": "other",
+      "val": 0.849
+    },
+    {
+      "id": "demdex.net",
+      "label": "demdex.net (Adobe)",
+      "group": "Adobe",
+      "val": 1.28
+    },
+    {
+      "id": "disqus.com",
+      "label": "disqus.com (Disqus)",
+      "group": "other",
+      "val": 0.23900000000000002
+    },
+    {
+      "id": "dotomi.com",
+      "label": "dotomi.com (Conversant)",
+      "group": "other",
+      "val": 1.1400000000000001
+    },
+    {
+      "id": "doubleclick.net",
+      "label": "doubleclick.net (Google)",
+      "group": "Google",
+      "val": 6.04
+    },
+    {
+      "id": "doubleverify.com",
+      "label": "doubleverify.com (DoubleVerify)",
+      "group": "other",
+      "val": 0.13599999999999998
+    },
+    {
+      "id": "dtscdn.com",
+      "label": "dtscdn.com (DTS)",
+      "group": "other",
+      "val": 0.177
+    },
+    {
+      "id": "dtscout.com",
+      "label": "dtscout.com (DTS)",
+      "group": "other",
+      "val": 0.179
+    },
+    {
+      "id": "dtssrv.com",
+      "label": "dtssrv.com (DTS)",
+      "group": "other",
+      "val": 0.177
+    },
+    {
+      "id": "durationmedia.net",
+      "label": "durationmedia.net (Duration Media)",
+      "group": "other",
+      "val": 0.0773
+    },
+    {
+      "id": "dwin1.com",
+      "label": "dwin1.com (Awin)",
+      "group": "other",
+      "val": 0.0819
+    },
+    {
+      "id": "e-volution.ai",
+      "label": "e-volution.ai (Evolution Technologies)",
+      "group": "other",
+      "val": 0.0569
+    },
+    {
+      "id": "ensighten.com",
+      "label": "ensighten.com (Ensighten)",
+      "group": "other",
+      "val": 0.050600000000000006
+    },
+    {
+      "id": "eqads.com",
+      "label": "eqads.com (EQ Works)",
+      "group": "other",
+      "val": 0.125
+    },
+    {
+      "id": "eu-1-id5-sync.com",
+      "label": "eu-1-id5-sync.com (undefined)",
+      "group": "other",
+      "val": 0.683
+    },
+    {
+      "id": "everesttech.net",
+      "label": "everesttech.net (Adobe)",
+      "group": "Adobe",
+      "val": 1.53
+    },
+    {
+      "id": "exelator.com",
+      "label": "exelator.com (The Nielsen Company)",
+      "group": "other",
+      "val": 0.552
+    },
+    {
+      "id": "eyeota.net",
+      "label": "eyeota.net (eyeota)",
+      "group": "other",
+      "val": 0.5559999999999999
+    },
+    {
+      "id": "ezodn.com",
+      "label": "ezodn.com (Ezoic)",
+      "group": "other",
+      "val": 0.164
+    },
+    {
+      "id": "facebook.com",
+      "label": "facebook.com (Facebook)",
+      "group": "Facebook",
+      "val": 2.56
+    },
+    {
+      "id": "facebook.net",
+      "label": "facebook.net (Facebook)",
+      "group": "Facebook",
+      "val": 2.68
+    },
+    {
+      "id": "fastclick.net",
+      "label": "fastclick.net (Conversant)",
+      "group": "other",
+      "val": 0.359
+    },
+    {
+      "id": "fastly-insights.com",
+      "label": "fastly-insights.com (Fastly)",
+      "group": "other",
+      "val": 0.0707
+    },
+    {
+      "id": "fbcdn.net",
+      "label": "fbcdn.net (Facebook)",
+      "group": "Facebook",
+      "val": 0.20500000000000002
+    },
+    {
+      "id": "fksnk.com",
+      "label": "fksnk.com (undefined)",
+      "group": "other",
+      "val": 0.072
+    },
+    {
+      "id": "flashtalking.com",
+      "label": "flashtalking.com (Flashtalking)",
+      "group": "other",
+      "val": 0.28600000000000003
+    },
+    {
+      "id": "fontawesome.com",
+      "label": "fontawesome.com (Fonticons)",
+      "group": "other",
+      "val": 0.543
+    },
+    {
+      "id": "fonts.googleapis.com",
+      "label": "fonts.googleapis.com (Google)",
+      "group": "Google",
+      "val": 4.34
+    },
+    {
+      "id": "fonts.net",
+      "label": "fonts.net (Monotype Imaging)",
+      "group": "other",
+      "val": 0.0766
+    },
+    {
+      "id": "force.com",
+      "label": "force.com (Salesforce.com)",
+      "group": "other",
+      "val": 0.0581
+    },
+    {
+      "id": "fullstory.com",
+      "label": "fullstory.com (FullStory)",
+      "group": "other",
+      "val": 0.0636
+    },
+    {
+      "id": "fwmrm.net",
+      "label": "fwmrm.net (FreeWheel)",
+      "group": "other",
+      "val": 0.06
+    },
+    {
+      "id": "geistm.com",
+      "label": "geistm.com (GeistM)",
+      "group": "other",
+      "val": 0.0866
+    },
+    {
+      "id": "gemius.pl",
+      "label": "gemius.pl (Gemius)",
+      "group": "other",
+      "val": 0.0681
+    },
+    {
+      "id": "ggpht.com",
+      "label": "ggpht.com (Google)",
+      "group": "Google",
+      "val": 0.325
+    },
+    {
+      "id": "go-mpulse.net",
+      "label": "go-mpulse.net (Akamai)",
+      "group": "other",
+      "val": 0.247
+    },
+    {
+      "id": "google-analytics.com",
+      "label": "google-analytics.com (Google)",
+      "group": "Google",
+      "val": 6.710000000000001
+    },
+    {
+      "id": "google.com",
+      "label": "google.com (Google)",
+      "group": "Google",
+      "val": 5.6499999999999995
+    },
+    {
+      "id": "googleadservices.com",
+      "label": "googleadservices.com (Google)",
+      "group": "Google",
+      "val": 1.58
+    },
+    {
+      "id": "googleoptimize.com",
+      "label": "googleoptimize.com (Google)",
+      "group": "Google",
+      "val": 0.41700000000000004
+    },
+    {
+      "id": "googlesyndication.com",
+      "label": "googlesyndication.com (Google)",
+      "group": "Google",
+      "val": 2.59
+    },
+    {
+      "id": "googletagmanager.com",
+      "label": "googletagmanager.com (Google)",
+      "group": "Google",
+      "val": 6.51
+    },
+    {
+      "id": "googletagservices.com",
+      "label": "googletagservices.com (Google)",
+      "group": "Google",
+      "val": 1.96
+    },
+    {
+      "id": "googleusercontent.com",
+      "label": "googleusercontent.com (Google)",
+      "group": "Google",
+      "val": 0.0817
+    },
+    {
+      "id": "gravatar.com",
+      "label": "gravatar.com (Automattic)",
+      "group": "other",
+      "val": 0.20400000000000001
+    },
+    {
+      "id": "grow.me",
+      "label": "grow.me (Mediavine)",
+      "group": "other",
+      "val": 0.156
+    },
+    {
+      "id": "gstatic.com",
+      "label": "gstatic.com (Google)",
+      "group": "Google",
+      "val": 4.9
+    },
+    {
+      "id": "gumgum.com",
+      "label": "gumgum.com (GumGum)",
+      "group": "other",
+      "val": 0.7979999999999999
+    },
+    {
+      "id": "hadronid.net",
+      "label": "hadronid.net (undefined)",
+      "group": "other",
+      "val": 0.27
+    },
+    {
+      "id": "histats.com",
+      "label": "histats.com (wisecode)",
+      "group": "other",
+      "val": 0.173
+    },
+    {
+      "id": "hotjar.com",
+      "label": "hotjar.com (Hotjar)",
+      "group": "other",
+      "val": 0.6890000000000001
+    },
+    {
+      "id": "hotjar.io",
+      "label": "hotjar.io (Hotjar)",
+      "group": "other",
+      "val": 0.21499999999999997
+    },
+    {
+      "id": "hs-analytics.net",
+      "label": "hs-analytics.net (HubSpot)",
+      "group": "other",
+      "val": 0.154
+    },
+    {
+      "id": "hs-banner.com",
+      "label": "hs-banner.com (HubSpot)",
+      "group": "other",
+      "val": 0.153
+    },
+    {
+      "id": "hs-scripts.com",
+      "label": "hs-scripts.com (HubSpot)",
+      "group": "other",
+      "val": 0.147
+    },
+    {
+      "id": "hsadspixel.net",
+      "label": "hsadspixel.net (HubSpot)",
+      "group": "other",
+      "val": 0.0814
+    },
+    {
+      "id": "hscollectedforms.net",
+      "label": "hscollectedforms.net (HubSpot)",
+      "group": "other",
+      "val": 0.0538
+    },
+    {
+      "id": "hsforms.com",
+      "label": "hsforms.com (HubSpot)",
+      "group": "other",
+      "val": 0.0752
+    },
+    {
+      "id": "hsleadflows.net",
+      "label": "hsleadflows.net (HubSpot)",
+      "group": "other",
+      "val": 0.0638
+    },
+    {
+      "id": "hubapi.com",
+      "label": "hubapi.com (HubSpot)",
+      "group": "other",
+      "val": 0.0793
+    },
+    {
+      "id": "hubspot.com",
+      "label": "hubspot.com (HubSpot)",
+      "group": "other",
+      "val": 0.149
+    },
+    {
+      "id": "ib-ibi.com",
+      "label": "ib-ibi.com (KBM Group)",
+      "group": "other",
+      "val": 0.0941
+    },
+    {
+      "id": "id5-sync.com",
+      "label": "id5-sync.com (ID5)",
+      "group": "other",
+      "val": 1.1400000000000001
+    },
+    {
+      "id": "igodigital.com",
+      "label": "igodigital.com (Salesforce.com)",
+      "group": "other",
+      "val": 0.0799
+    },
+    {
+      "id": "im-apps.net",
+      "label": "im-apps.net (Intimate Merger)",
+      "group": "other",
+      "val": 0.164
+    },
+    {
+      "id": "imasdk.googleapis.com",
+      "label": "imasdk.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.487
+    },
+    {
+      "id": "imgix.net",
+      "label": "imgix.net (Zebrafish Labs)",
+      "group": "other",
+      "val": 0.0862
+    },
+    {
+      "id": "imgur.com",
+      "label": "imgur.com (MediaLab.Ai)",
+      "group": "other",
+      "val": 0.056
+    },
+    {
+      "id": "impactradius-event.com",
+      "label": "impactradius-event.com (Impact)",
+      "group": "other",
+      "val": 0.0589
+    },
+    {
+      "id": "imrworldwide.com",
+      "label": "imrworldwide.com (The Nielsen Company)",
+      "group": "other",
+      "val": 0.174
+    },
+    {
+      "id": "indexww.com",
+      "label": "indexww.com (Index Exchange)",
+      "group": "other",
+      "val": 0.518
+    },
+    {
+      "id": "infolinks.com",
+      "label": "infolinks.com (Infolink Media)",
+      "group": "other",
+      "val": 0.112
+    },
+    {
+      "id": "inmobi.com",
+      "label": "inmobi.com (InMobi)",
+      "group": "other",
+      "val": 0.443
+    },
+    {
+      "id": "instagram.com",
+      "label": "instagram.com (Facebook)",
+      "group": "Facebook",
+      "val": 0.0573
+    },
+    {
+      "id": "intentiq.com",
+      "label": "intentiq.com (Intent IQ)",
+      "group": "other",
+      "val": 0.371
+    },
+    {
+      "id": "iocnt.net",
+      "label": "iocnt.net (INFOnline)",
+      "group": "other",
+      "val": 0.059500000000000004
+    },
+    {
+      "id": "ipify.org",
+      "label": "ipify.org (ipify.org)",
+      "group": "other",
+      "val": 0.0555
+    },
+    {
+      "id": "ipredictive.com",
+      "label": "ipredictive.com (Adelphic)",
+      "group": "other",
+      "val": 1.05
+    },
+    {
+      "id": "iprom.net",
+      "label": "iprom.net (IPROM)",
+      "group": "other",
+      "val": 0.20199999999999999
+    },
+    {
+      "id": "ispot.tv",
+      "label": "ispot.tv (iSpot.tv)",
+      "group": "other",
+      "val": 0.0654
+    },
+    {
+      "id": "ivitrack.com",
+      "label": "ivitrack.com (Ividence)",
+      "group": "other",
+      "val": 0.13
+    },
+    {
+      "id": "jads.co",
+      "label": "jads.co (JuicyAds)",
+      "group": "other",
+      "val": 0.0517
+    },
+    {
+      "id": "jnn-pa.googleapis.com",
+      "label": "jnn-pa.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.363
+    },
+    {
+      "id": "jquery.com",
+      "label": "jquery.com (OpenJS Foundation)",
+      "group": "other",
+      "val": 0.539
+    },
+    {
+      "id": "js7k.com",
+      "label": "js7k.com (Verizon Media)",
+      "group": "other",
+      "val": 0.0718
+    },
+    {
+      "id": "jsdelivr.net",
+      "label": "jsdelivr.net (Prospect One)",
+      "group": "other",
+      "val": 1.24
+    },
+    {
+      "id": "jwpcdn.com",
+      "label": "jwpcdn.com (LongTail Ad Solutions)",
+      "group": "other",
+      "val": 0.134
+    },
+    {
+      "id": "jwplatform.com",
+      "label": "jwplatform.com (LongTail Ad Solutions)",
+      "group": "other",
+      "val": 0.10200000000000001
+    },
+    {
+      "id": "jwplayer.com",
+      "label": "jwplayer.com (LongTail Ad Solutions)",
+      "group": "other",
+      "val": 0.22499999999999998
+    },
+    {
+      "id": "jwpltx.com",
+      "label": "jwpltx.com (LongTail Ad Solutions)",
+      "group": "other",
+      "val": 0.109
+    },
+    {
+      "id": "jwpsrv.com",
+      "label": "jwpsrv.com (LongTail Ad Solutions)",
+      "group": "other",
+      "val": 0.10099999999999999
+    },
+    {
+      "id": "kampyle.com",
+      "label": "kampyle.com (Medallia)",
+      "group": "other",
+      "val": 0.0587
+    },
+    {
+      "id": "kargo.com",
+      "label": "kargo.com (Kargo)",
+      "group": "other",
+      "val": 0.661
+    },
+    {
+      "id": "klaviyo.com",
+      "label": "klaviyo.com (Klaviyo)",
+      "group": "other",
+      "val": 0.21499999999999997
+    },
+    {
+      "id": "krxd.net",
+      "label": "krxd.net (Salesforce.com)",
+      "group": "other",
+      "val": 0.661
+    },
+    {
+      "id": "ktkjmp.com",
+      "label": "ktkjmp.com (undefined)",
+      "group": "other",
+      "val": 0.0713
+    },
+    {
+      "id": "liadm.com",
+      "label": "liadm.com (LiveIntent)",
+      "group": "other",
+      "val": 0.785
+    },
+    {
+      "id": "licdn.com",
+      "label": "licdn.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.469
+    },
+    {
+      "id": "lijit.com",
+      "label": "lijit.com (Sovrn Holdings)",
+      "group": "other",
+      "val": 1.22
+    },
+    {
+      "id": "linkedin.com",
+      "label": "linkedin.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 1.77
+    },
+    {
+      "id": "livechatinc.com",
+      "label": "livechatinc.com (LiveChat)",
+      "group": "other",
+      "val": 0.0504
+    },
+    {
+      "id": "liveperson.net",
+      "label": "liveperson.net (LivePerson)",
+      "group": "other",
+      "val": 0.0513
+    },
+    {
+      "id": "loopme.me",
+      "label": "loopme.me (LoopMe)",
+      "group": "other",
+      "val": 0.712
+    },
+    {
+      "id": "mailchimp.com",
+      "label": "mailchimp.com (Intuit)",
+      "group": "other",
+      "val": 0.059699999999999996
+    },
+    {
+      "id": "maps.googleapis.com",
+      "label": "maps.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.351
+    },
+    {
+      "id": "marketiq.com",
+      "label": "marketiq.com (undefined)",
+      "group": "other",
+      "val": 0.0652
+    },
+    {
+      "id": "marketo.net",
+      "label": "marketo.net (Adobe)",
+      "group": "Adobe",
+      "val": 0.08349999999999999
+    },
+    {
+      "id": "mathtag.com",
+      "label": "mathtag.com (MediaMath)",
+      "group": "other",
+      "val": 1.3800000000000001
+    },
+    {
+      "id": "media-amazon.com",
+      "label": "media-amazon.com (Amazon.com)",
+      "group": "Amazon.com",
+      "val": 0.056299999999999996
+    },
+    {
+      "id": "media.net",
+      "label": "media.net (Media.net Advertising)",
+      "group": "other",
+      "val": 0.918
+    },
+    {
+      "id": "media6degrees.com",
+      "label": "media6degrees.com (Dstillery)",
+      "group": "other",
+      "val": 0.146
+    },
+    {
+      "id": "mediago.io",
+      "label": "mediago.io (undefined)",
+      "group": "other",
+      "val": 0.153
+    },
+    {
+      "id": "mediavine.com",
+      "label": "mediavine.com (Mediavine)",
+      "group": "other",
+      "val": 0.39899999999999997
+    },
+    {
+      "id": "mediawallahscript.com",
+      "label": "mediawallahscript.com (MediaWallah)",
+      "group": "other",
+      "val": 0.129
+    },
+    {
+      "id": "metricswpsh.com",
+      "label": "metricswpsh.com (undefined)",
+      "group": "other",
+      "val": 0.0577
+    },
+    {
+      "id": "mfadsrvr.com",
+      "label": "mfadsrvr.com (IPONWEB)",
+      "group": "other",
+      "val": 0.7290000000000001
+    },
+    {
+      "id": "mgid.com",
+      "label": "mgid.com (MGID)",
+      "group": "other",
+      "val": 0.114
+    },
+    {
+      "id": "microad.jp",
+      "label": "microad.jp (MicroAd)",
+      "group": "other",
+      "val": 0.106
+    },
+    {
+      "id": "minutemedia-prebid.com",
+      "label": "minutemedia-prebid.com (undefined)",
+      "group": "other",
+      "val": 0.094
+    },
+    {
+      "id": "mktoresp.com",
+      "label": "mktoresp.com (Adobe)",
+      "group": "Adobe",
+      "val": 0.08070000000000001
+    },
+    {
+      "id": "ml314.com",
+      "label": "ml314.com (Bombora)",
+      "group": "other",
+      "val": 0.307
+    },
+    {
+      "id": "moatads.com",
+      "label": "moatads.com (Oracle)",
+      "group": "other",
+      "val": 0.397
+    },
+    {
+      "id": "mobtrakk.com",
+      "label": "mobtrakk.com (undefined)",
+      "group": "other",
+      "val": 0.0775
+    },
+    {
+      "id": "mookie1.com",
+      "label": "mookie1.com (WPP)",
+      "group": "other",
+      "val": 0.515
+    },
+    {
+      "id": "mouseflow.com",
+      "label": "mouseflow.com (Mouseflow)",
+      "group": "other",
+      "val": 0.0562
+    },
+    {
+      "id": "mrtnsvr.com",
+      "label": "mrtnsvr.com (undefined)",
+      "group": "other",
+      "val": 0.276
+    },
+    {
+      "id": "msecnd.net",
+      "label": "msecnd.net (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.0824
+    },
+    {
+      "id": "mxptint.net",
+      "label": "mxptint.net (Valassis Digital)",
+      "group": "other",
+      "val": 0.463
+    },
+    {
+      "id": "narrative.io",
+      "label": "narrative.io (Narrative)",
+      "group": "other",
+      "val": 0.057
+    },
+    {
+      "id": "newrelic.com",
+      "label": "newrelic.com (New Relic)",
+      "group": "other",
+      "val": 0.474
+    },
+    {
+      "id": "nr-data.net",
+      "label": "nr-data.net (New Relic)",
+      "group": "other",
+      "val": 0.466
+    },
+    {
+      "id": "nrich.ai",
+      "label": "nrich.ai (N.Rich)",
+      "group": "other",
+      "val": 0.0632
+    },
+    {
+      "id": "ntv.io",
+      "label": "ntv.io (Nativo)",
+      "group": "other",
+      "val": 0.15
+    },
+    {
+      "id": "ntvpwpush.com",
+      "label": "ntvpwpush.com (undefined)",
+      "group": "other",
+      "val": 0.0533
+    },
+    {
+      "id": "omappapi.com",
+      "label": "omappapi.com (Retyp)",
+      "group": "other",
+      "val": 0.107
+    },
+    {
+      "id": "omnitagjs.com",
+      "label": "omnitagjs.com (Adyoulike)",
+      "group": "other",
+      "val": 0.354
+    },
+    {
+      "id": "omtrdc.net",
+      "label": "omtrdc.net (Adobe)",
+      "group": "Adobe",
+      "val": 0.333
+    },
+    {
+      "id": "onaudience.com",
+      "label": "onaudience.com (OnAudience)",
+      "group": "other",
+      "val": 0.22999999999999998
+    },
+    {
+      "id": "onesignal.com",
+      "label": "onesignal.com (OneSignal)",
+      "group": "other",
+      "val": 0.165
+    },
+    {
+      "id": "onetag-sys.com",
+      "label": "onetag-sys.com (OneTag)",
+      "group": "other",
+      "val": 0.5589999999999999
+    },
+    {
+      "id": "onetrust.com",
+      "label": "onetrust.com (OneTrust)",
+      "group": "other",
+      "val": 0.637
+    },
+    {
+      "id": "opecloud.com",
+      "label": "opecloud.com (TripleLift)",
+      "group": "other",
+      "val": 0.0945
+    },
+    {
+      "id": "openx.net",
+      "label": "openx.net (OpenX)",
+      "group": "other",
+      "val": 1.7199999999999998
+    },
+    {
+      "id": "openxcdn.net",
+      "label": "openxcdn.net (undefined)",
+      "group": "other",
+      "val": 0.28
+    },
+    {
+      "id": "opera.com",
+      "label": "opera.com (Opera Software)",
+      "group": "other",
+      "val": 0.173
+    },
+    {
+      "id": "optimizely.com",
+      "label": "optimizely.com (Optimizely)",
+      "group": "other",
+      "val": 0.178
+    },
+    {
+      "id": "oribi.io",
+      "label": "oribi.io (undefined)",
+      "group": "other",
+      "val": 0.47100000000000003
+    },
+    {
+      "id": "outbrain.com",
+      "label": "outbrain.com (Outbrain)",
+      "group": "other",
+      "val": 0.917
+    },
+    {
+      "id": "outbrainimg.com",
+      "label": "outbrainimg.com (Outbrain)",
+      "group": "other",
+      "val": 0.09390000000000001
+    },
+    {
+      "id": "owneriq.net",
+      "label": "owneriq.net (Inmar)",
+      "group": "other",
+      "val": 0.287
+    },
+    {
+      "id": "parsely.com",
+      "label": "parsely.com (Parsely)",
+      "group": "other",
+      "val": 0.153
+    },
+    {
+      "id": "paypal.com",
+      "label": "paypal.com (PayPal)",
+      "group": "other",
+      "val": 0.0824
+    },
+    {
+      "id": "paypalobjects.com",
+      "label": "paypalobjects.com (PayPal)",
+      "group": "other",
+      "val": 0.0892
+    },
+    {
+      "id": "pdst.fm",
+      "label": "pdst.fm (Podsights)",
+      "group": "other",
+      "val": 0.0655
+    },
+    {
+      "id": "perfectmarket.com",
+      "label": "perfectmarket.com (Perfect Market)",
+      "group": "other",
+      "val": 0.0746
+    },
+    {
+      "id": "permutive.app",
+      "label": "permutive.app (Permutive)",
+      "group": "other",
+      "val": 0.085
+    },
+    {
+      "id": "permutive.com",
+      "label": "permutive.com (Permutive)",
+      "group": "other",
+      "val": 0.11499999999999999
+    },
+    {
+      "id": "pghub.io",
+      "label": "pghub.io (undefined)",
+      "group": "other",
+      "val": 0.228
+    },
+    {
+      "id": "piano.io",
+      "label": "piano.io (Piano Software)",
+      "group": "other",
+      "val": 0.0705
+    },
+    {
+      "id": "pingdom.net",
+      "label": "pingdom.net (Pingdom)",
+      "group": "other",
+      "val": 0.0694
+    },
+    {
+      "id": "pinimg.com",
+      "label": "pinimg.com (Pinterest)",
+      "group": "other",
+      "val": 0.448
+    },
+    {
+      "id": "pinterest.com",
+      "label": "pinterest.com (Pinterest)",
+      "group": "other",
+      "val": 0.593
+    },
+    {
+      "id": "pippio.com",
+      "label": "pippio.com (LiveRamp)",
+      "group": "other",
+      "val": 0.935
+    },
+    {
+      "id": "playground.xyz",
+      "label": "playground.xyz (PLAYGROUND XYZ)",
+      "group": "other",
+      "val": 0.257
+    },
+    {
+      "id": "polyfill.io",
+      "label": "polyfill.io (The Financial Times)",
+      "group": "other",
+      "val": 0.248
+    },
+    {
+      "id": "postrelease.com",
+      "label": "postrelease.com (Nativo)",
+      "group": "other",
+      "val": 0.518
+    },
+    {
+      "id": "privacy-center.org",
+      "label": "privacy-center.org (Didomi)",
+      "group": "other",
+      "val": 0.111
+    },
+    {
+      "id": "privacy-mgmt.com",
+      "label": "privacy-mgmt.com (Sourcepoint)",
+      "group": "other",
+      "val": 0.117
+    },
+    {
+      "id": "privacymanager.io",
+      "label": "privacymanager.io (LiveRamp)",
+      "group": "other",
+      "val": 0.332
+    },
+    {
+      "id": "prmutv.co",
+      "label": "prmutv.co (Permutive)",
+      "group": "other",
+      "val": 0.09509999999999999
+    },
+    {
+      "id": "pro-market.net",
+      "label": "pro-market.net (Datonics)",
+      "group": "other",
+      "val": 0.112
+    },
+    {
+      "id": "pswec.com",
+      "label": "pswec.com (Proclivity Media)",
+      "group": "other",
+      "val": 0.13599999999999998
+    },
+    {
+      "id": "pubmatic.com",
+      "label": "pubmatic.com (PubMatic)",
+      "group": "other",
+      "val": 1.87
+    },
+    {
+      "id": "qsearch-a.akamaihd.net",
+      "label": "qsearch-a.akamaihd.net (Akamai)",
+      "group": "other",
+      "val": 0.078
+    },
+    {
+      "id": "qualtrics.com",
+      "label": "qualtrics.com (SAP)",
+      "group": "other",
+      "val": 0.106
+    },
+    {
+      "id": "quantcast.com",
+      "label": "quantcast.com (Quantcast)",
+      "group": "other",
+      "val": 0.18100000000000002
+    },
+    {
+      "id": "quantcount.com",
+      "label": "quantcount.com (Quantcast)",
+      "group": "other",
+      "val": 0.741
+    },
+    {
+      "id": "quantserve.com",
+      "label": "quantserve.com (Quantcast)",
+      "group": "other",
+      "val": 1.32
+    },
+    {
+      "id": "realsrv.com",
+      "label": "realsrv.com (ExoClick)",
+      "group": "other",
+      "val": 0.26
+    },
+    {
+      "id": "reddit.com",
+      "label": "reddit.com (Reddit)",
+      "group": "other",
+      "val": 0.152
+    },
+    {
+      "id": "redditstatic.com",
+      "label": "redditstatic.com (Reddit)",
+      "group": "other",
+      "val": 0.138
+    },
+    {
+      "id": "resetdigital.co",
+      "label": "resetdigital.co (Reset Digital)",
+      "group": "other",
+      "val": 0.0931
+    },
+    {
+      "id": "revcontent.com",
+      "label": "revcontent.com (RevContent)",
+      "group": "other",
+      "val": 0.16799999999999998
+    },
+    {
+      "id": "rezync.com",
+      "label": "rezync.com (Zeta Global)",
+      "group": "other",
+      "val": 0.229
+    },
+    {
+      "id": "rfihub.com",
+      "label": "rfihub.com (Zeta Global)",
+      "group": "other",
+      "val": 1.1500000000000001
+    },
+    {
+      "id": "richaudience.com",
+      "label": "richaudience.com (Rich Audience)",
+      "group": "other",
+      "val": 0.123
+    },
+    {
+      "id": "rkdms.com",
+      "label": "rkdms.com (Merkle)",
+      "group": "other",
+      "val": 0.279
+    },
+    {
+      "id": "rlcdn.com",
+      "label": "rlcdn.com (LiveRamp)",
+      "group": "other",
+      "val": 1.6800000000000002
+    },
+    {
+      "id": "rqtrk.eu",
+      "label": "rqtrk.eu (Roq.ad)",
+      "group": "other",
+      "val": 0.177
+    },
+    {
+      "id": "rtactivate.com",
+      "label": "rtactivate.com (undefined)",
+      "group": "other",
+      "val": 0.156
+    },
+    {
+      "id": "rtbhouse.com",
+      "label": "rtbhouse.com (undefined)",
+      "group": "other",
+      "val": 0.16299999999999998
+    },
+    {
+      "id": "rtbsystem.com",
+      "label": "rtbsystem.com (undefined)",
+      "group": "other",
+      "val": 0.1
+    },
+    {
+      "id": "rubiconproject.com",
+      "label": "rubiconproject.com (Magnite)",
+      "group": "other",
+      "val": 1.9700000000000002
+    },
+    {
+      "id": "s-onetag.com",
+      "label": "s-onetag.com (Sovrn Holdings)",
+      "group": "other",
+      "val": 0.256
+    },
+    {
+      "id": "sail-horizon.com",
+      "label": "sail-horizon.com (CM Group)",
+      "group": "other",
+      "val": 0.0769
+    },
+    {
+      "id": "sail-personalize.com",
+      "label": "sail-personalize.com (CM Group)",
+      "group": "other",
+      "val": 0.0586
+    },
+    {
+      "id": "salesforceliveagent.com",
+      "label": "salesforceliveagent.com (Salesforce.com)",
+      "group": "other",
+      "val": 0.0633
+    },
+    {
+      "id": "samplicio.us",
+      "label": "samplicio.us (Lucid Holdings)",
+      "group": "other",
+      "val": 0.0762
+    },
+    {
+      "id": "sascdn.com",
+      "label": "sascdn.com (Smartadserver)",
+      "group": "other",
+      "val": 0.061900000000000004
+    },
+    {
+      "id": "sc-static.net",
+      "label": "sc-static.net (Snap)",
+      "group": "other",
+      "val": 0.23199999999999998
+    },
+    {
+      "id": "scorecardresearch.com",
+      "label": "scorecardresearch.com (comScore)",
+      "group": "other",
+      "val": 1.01
+    },
+    {
+      "id": "sda.fyi",
+      "label": "sda.fyi (undefined)",
+      "group": "other",
+      "val": 0.0893
+    },
+    {
+      "id": "sddan.com",
+      "label": "sddan.com (Sirdata)",
+      "group": "other",
+      "val": 0.052700000000000004
+    },
+    {
+      "id": "securedvisit.com",
+      "label": "securedvisit.com (4Cite Marketing)",
+      "group": "other",
+      "val": 0.194
+    },
+    {
+      "id": "segment.com",
+      "label": "segment.com (Segment.io)",
+      "group": "other",
+      "val": 0.14300000000000002
+    },
+    {
+      "id": "segment.io",
+      "label": "segment.io (Segment.io)",
+      "group": "other",
+      "val": 0.0977
+    },
+    {
+      "id": "semasio.net",
+      "label": "semasio.net (Semasio)",
+      "group": "other",
+      "val": 0.123
+    },
+    {
+      "id": "sentry-cdn.com",
+      "label": "sentry-cdn.com (Functional Software)",
+      "group": "other",
+      "val": 0.0555
+    },
+    {
+      "id": "sentry.io",
+      "label": "sentry.io (Functional Software)",
+      "group": "other",
+      "val": 0.16299999999999998
+    },
+    {
+      "id": "servenobid.com",
+      "label": "servenobid.com (Prebid.org)",
+      "group": "other",
+      "val": 0.135
+    },
+    {
+      "id": "serving-sys.com",
+      "label": "serving-sys.com (Amazon.com)",
+      "group": "Amazon.com",
+      "val": 0.09010000000000001
+    },
+    {
+      "id": "shareaholic.com",
+      "label": "shareaholic.com (Shareaholic)",
+      "group": "other",
+      "val": 0.0511
+    },
+    {
+      "id": "sharethis.com",
+      "label": "sharethis.com (ShareThis)",
+      "group": "other",
+      "val": 0.31399999999999995
+    },
+    {
+      "id": "sharethrough.com",
+      "label": "sharethrough.com (Sharethrough)",
+      "group": "other",
+      "val": 1.03
+    },
+    {
+      "id": "shop.app",
+      "label": "shop.app (Shopify)",
+      "group": "other",
+      "val": 0.10099999999999999
+    },
+    {
+      "id": "shopify.com",
+      "label": "shopify.com (Shopify)",
+      "group": "other",
+      "val": 0.172
+    },
+    {
+      "id": "shopifycdn.com",
+      "label": "shopifycdn.com (Shopify)",
+      "group": "other",
+      "val": 0.09050000000000001
+    },
+    {
+      "id": "simpli.fi",
+      "label": "simpli.fi (Simplifi Holdings)",
+      "group": "other",
+      "val": 1.23
+    },
+    {
+      "id": "siteimproveanalytics.com",
+      "label": "siteimproveanalytics.com (Siteimprove)",
+      "group": "other",
+      "val": 0.121
+    },
+    {
+      "id": "siteimproveanalytics.io",
+      "label": "siteimproveanalytics.io (Siteimprove)",
+      "group": "other",
+      "val": 0.111
+    },
+    {
+      "id": "sitescout.com",
+      "label": "sitescout.com (Centro)",
+      "group": "other",
+      "val": 1.05
+    },
+    {
+      "id": "skimresources.com",
+      "label": "skimresources.com (Skimbit)",
+      "group": "other",
+      "val": 0.12200000000000001
+    },
+    {
+      "id": "smaato.net",
+      "label": "smaato.net (Smaato)",
+      "group": "other",
+      "val": 0.6869999999999999
+    },
+    {
+      "id": "smadex.com",
+      "label": "smadex.com (Entravision)",
+      "group": "other",
+      "val": 0.0519
+    },
+    {
+      "id": "smartadserver.com",
+      "label": "smartadserver.com (Smartadserver)",
+      "group": "other",
+      "val": 1.47
+    },
+    {
+      "id": "smilewanted.com",
+      "label": "smilewanted.com (undefined)",
+      "group": "other",
+      "val": 0.07479999999999999
+    },
+    {
+      "id": "snapchat.com",
+      "label": "snapchat.com (Snap)",
+      "group": "other",
+      "val": 0.212
+    },
+    {
+      "id": "socdm.com",
+      "label": "socdm.com (Supership)",
+      "group": "other",
+      "val": 0.79
+    },
+    {
+      "id": "sonobi.com",
+      "label": "sonobi.com (Sonobi)",
+      "group": "other",
+      "val": 0.6
+    },
+    {
+      "id": "speedcurve.com",
+      "label": "speedcurve.com (SpeedCurve)",
+      "group": "other",
+      "val": 0.0644
+    },
+    {
+      "id": "sportradarserving.com",
+      "label": "sportradarserving.com (Sportradar)",
+      "group": "other",
+      "val": 0.17500000000000002
+    },
+    {
+      "id": "spot.im",
+      "label": "spot.im (OpenWeb)",
+      "group": "other",
+      "val": 0.059
+    },
+    {
+      "id": "spotim.market",
+      "label": "spotim.market (Spot.IM)",
+      "group": "other",
+      "val": 0.053
+    },
+    {
+      "id": "spotxchange.com",
+      "label": "spotxchange.com (SpotX)",
+      "group": "other",
+      "val": 0.42000000000000004
+    },
+    {
+      "id": "springserve.com",
+      "label": "springserve.com (SpringServe)",
+      "group": "other",
+      "val": 0.11299999999999999
+    },
+    {
+      "id": "stackadapt.com",
+      "label": "stackadapt.com (Collective Roll)",
+      "group": "other",
+      "val": 1.19
+    },
+    {
+      "id": "statcounter.com",
+      "label": "statcounter.com (StatCounter)",
+      "group": "other",
+      "val": 0.06080000000000001
+    },
+    {
+      "id": "stickyadstv.com",
+      "label": "stickyadstv.com (FreeWheel)",
+      "group": "other",
+      "val": 0.569
+    },
+    {
+      "id": "storage.googleapis.com",
+      "label": "storage.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.172
+    },
+    {
+      "id": "storygize.net",
+      "label": "storygize.net (Storygize)",
+      "group": "other",
+      "val": 0.0528
+    },
+    {
+      "id": "stripe.com",
+      "label": "stripe.com (Stripe)",
+      "group": "other",
+      "val": 0.083
+    },
+    {
+      "id": "stripe.network",
+      "label": "stripe.network (Stripe)",
+      "group": "other",
+      "val": 0.0796
+    },
+    {
+      "id": "strpst.com",
+      "label": "strpst.com (undefined)",
+      "group": "other",
+      "val": 0.08349999999999999
+    },
+    {
+      "id": "t.co",
+      "label": "t.co (Twitter)",
+      "group": "other",
+      "val": 0.461
+    },
+    {
+      "id": "taboola.com",
+      "label": "taboola.com (Taboola)",
+      "group": "other",
+      "val": 0.896
+    },
+    {
+      "id": "talentropes.com",
+      "label": "talentropes.com (undefined)",
+      "group": "other",
+      "val": 0.27799999999999997
+    },
+    {
+      "id": "tapad.com",
+      "label": "tapad.com (Tapad)",
+      "group": "other",
+      "val": 1.61
+    },
+    {
+      "id": "taptapnetworks.com",
+      "label": "taptapnetworks.com (TAPTAP)",
+      "group": "other",
+      "val": 0.06459999999999999
+    },
+    {
+      "id": "teads.tv",
+      "label": "teads.tv (Teads)",
+      "group": "other",
+      "val": 0.68
+    },
+    {
+      "id": "tealiumiq.com",
+      "label": "tealiumiq.com (Tealium)",
+      "group": "other",
+      "val": 0.058399999999999994
+    },
+    {
+      "id": "technoratimedia.com",
+      "label": "technoratimedia.com (Synacor)",
+      "group": "other",
+      "val": 0.9099999999999999
+    },
+    {
+      "id": "thrtle.com",
+      "label": "thrtle.com (Throtle)",
+      "group": "other",
+      "val": 0.8939999999999999
+    },
+    {
+      "id": "tidaltv.com",
+      "label": "tidaltv.com (Amobee)",
+      "group": "other",
+      "val": 0.0625
+    },
+    {
+      "id": "tiktok.com",
+      "label": "tiktok.com (ByteDance)",
+      "group": "other",
+      "val": 0.446
+    },
+    {
+      "id": "tiqcdn.com",
+      "label": "tiqcdn.com (Tealium)",
+      "group": "other",
+      "val": 0.172
+    },
+    {
+      "id": "trackcmp.net",
+      "label": "trackcmp.net (ActiveCampaign)",
+      "group": "other",
+      "val": 0.0502
+    },
+    {
+      "id": "translate-pa.googleapis.com",
+      "label": "translate-pa.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.152
+    },
+    {
+      "id": "translate.googleapis.com",
+      "label": "translate.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.16
+    },
+    {
+      "id": "travelaudience.com",
+      "label": "travelaudience.com (undefined)",
+      "group": "other",
+      "val": 0.0545
+    },
+    {
+      "id": "treasuredata.com",
+      "label": "treasuredata.com (Treasure Data)",
+      "group": "other",
+      "val": 0.076
+    },
+    {
+      "id": "tremorhub.com",
+      "label": "tremorhub.com (Telaria)",
+      "group": "other",
+      "val": 0.282
+    },
+    {
+      "id": "trial-eum-clientnsv4-s.akamaihd.net",
+      "label": "trial-eum-clientnsv4-s.akamaihd.net (Akamai)",
+      "group": "other",
+      "val": 0.0615
+    },
+    {
+      "id": "trial-eum-clienttons-s.akamaihd.net",
+      "label": "trial-eum-clienttons-s.akamaihd.net (Akamai)",
+      "group": "other",
+      "val": 0.0615
+    },
+    {
+      "id": "tribalfusion.com",
+      "label": "tribalfusion.com (Exponential Interactive)",
+      "group": "other",
+      "val": 0.538
+    },
+    {
+      "id": "truffle.bid",
+      "label": "truffle.bid (Truffle)",
+      "group": "other",
+      "val": 0.19199999999999998
+    },
+    {
+      "id": "truoptik.com",
+      "label": "truoptik.com (21 Productions)",
+      "group": "other",
+      "val": 0.0757
+    },
+    {
+      "id": "trustarc.com",
+      "label": "trustarc.com (TrustArc)",
+      "group": "other",
+      "val": 0.0652
+    },
+    {
+      "id": "trustpilot.com",
+      "label": "trustpilot.com (Trustpilot)",
+      "group": "other",
+      "val": 0.11900000000000001
+    },
+    {
+      "id": "tsyndicate.com",
+      "label": "tsyndicate.com (Traffic Stars)",
+      "group": "other",
+      "val": 0.08510000000000001
+    },
+    {
+      "id": "turn.com",
+      "label": "turn.com (Amobee)",
+      "group": "other",
+      "val": 1.26
+    },
+    {
+      "id": "tvsquared.com",
+      "label": "tvsquared.com (TVSquared)",
+      "group": "other",
+      "val": 0.0622
+    },
+    {
+      "id": "twimg.com",
+      "label": "twimg.com (Twitter)",
+      "group": "other",
+      "val": 0.125
+    },
+    {
+      "id": "twitter.com",
+      "label": "twitter.com (Twitter)",
+      "group": "other",
+      "val": 0.892
+    },
+    {
+      "id": "tynt.com",
+      "label": "tynt.com (33Across)",
+      "group": "other",
+      "val": 0.512
+    },
+    {
+      "id": "typekit.net",
+      "label": "typekit.net (Adobe)",
+      "group": "Adobe",
+      "val": 0.518
+    },
+    {
+      "id": "uidapi.com",
+      "label": "uidapi.com (undefined)",
+      "group": "other",
+      "val": 0.198
+    },
+    {
+      "id": "undertone.com",
+      "label": "undertone.com (Undertone Networks)",
+      "group": "other",
+      "val": 0.27
+    },
+    {
+      "id": "unpkg.com",
+      "label": "unpkg.com (unpkg)",
+      "group": "other",
+      "val": 0.434
+    },
+    {
+      "id": "unrulymedia.com",
+      "label": "unrulymedia.com (Unruly Group)",
+      "group": "other",
+      "val": 0.9460000000000001
+    },
+    {
+      "id": "us-central1-adaptive-growth.cloudfunctions.net",
+      "label": "us-central1-adaptive-growth.cloudfunctions.net (Google)",
+      "group": "Google",
+      "val": 0.061900000000000004
+    },
+    {
+      "id": "usercentrics.eu",
+      "label": "usercentrics.eu (undefined)",
+      "group": "other",
+      "val": 0.08030000000000001
+    },
+    {
+      "id": "userreport.com",
+      "label": "userreport.com (AudienceProject)",
+      "group": "other",
+      "val": 0.08750000000000001
+    },
+    {
+      "id": "userway.org",
+      "label": "userway.org (undefined)",
+      "group": "other",
+      "val": 0.056100000000000004
+    },
+    {
+      "id": "uuidksinc.net",
+      "label": "uuidksinc.net (undefined)",
+      "group": "other",
+      "val": 0.0757
+    },
+    {
+      "id": "videoplayerhub.com",
+      "label": "videoplayerhub.com (Blockthrough)",
+      "group": "other",
+      "val": 0.0788
+    },
+    {
+      "id": "vidoomy.com",
+      "label": "vidoomy.com (Soluciones Corporativas IP)",
+      "group": "other",
+      "val": 0.0636
+    },
+    {
+      "id": "viglink.com",
+      "label": "viglink.com (Sovrn Holdings)",
+      "group": "other",
+      "val": 0.19199999999999998
+    },
+    {
+      "id": "vimeo.com",
+      "label": "vimeo.com (Vimeo)",
+      "group": "other",
+      "val": 0.0937
+    },
+    {
+      "id": "vimeocdn.com",
+      "label": "vimeocdn.com (Vimeo)",
+      "group": "other",
+      "val": 0.0778
+    },
+    {
+      "id": "visualstudio.com",
+      "label": "visualstudio.com (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.0826
+    },
+    {
+      "id": "visualwebsiteoptimizer.com",
+      "label": "visualwebsiteoptimizer.com (Wingify)",
+      "group": "other",
+      "val": 0.08800000000000001
+    },
+    {
+      "id": "vrtcal.com",
+      "label": "vrtcal.com (VRTCAL Markets)",
+      "group": "other",
+      "val": 0.10300000000000001
+    },
+    {
+      "id": "w.org",
+      "label": "w.org (WordPress Foundation)",
+      "group": "other",
+      "val": 0.11499999999999999
+    },
+    {
+      "id": "w55c.net",
+      "label": "w55c.net (Roku)",
+      "group": "other",
+      "val": 0.76
+    },
+    {
+      "id": "weborama.fr",
+      "label": "weborama.fr (Weborama)",
+      "group": "other",
+      "val": 0.065
+    },
+    {
+      "id": "windows.net",
+      "label": "windows.net (Microsoft)",
+      "group": "Microsoft",
+      "val": 0.08109999999999999
+    },
+    {
+      "id": "wknd.ai",
+      "label": "wknd.ai (undefined)",
+      "group": "other",
+      "val": 0.0545
+    },
+    {
+      "id": "wp.com",
+      "label": "wp.com (Automattic)",
+      "group": "other",
+      "val": 0.397
+    },
+    {
+      "id": "wpshsdk.com",
+      "label": "wpshsdk.com (undefined)",
+      "group": "other",
+      "val": 0.0564
+    },
+    {
+      "id": "www.googleapis.com",
+      "label": "www.googleapis.com (Google)",
+      "group": "Google",
+      "val": 0.0673
+    },
+    {
+      "id": "xlivrdr.com",
+      "label": "xlivrdr.com (undefined)",
+      "group": "other",
+      "val": 0.054599999999999996
+    },
+    {
+      "id": "yadro.ru",
+      "label": "yadro.ru (ECO PC - Complex Solutions)",
+      "group": "other",
+      "val": 0.13599999999999998
+    },
+    {
+      "id": "yahoo.co.jp",
+      "label": "yahoo.co.jp (Yahoo Japan)",
+      "group": "other",
+      "val": 0.0895
+    },
+    {
+      "id": "yahoo.com",
+      "label": "yahoo.com (Verizon Media)",
+      "group": "other",
+      "val": 2.22
+    },
+    {
+      "id": "yandex.com",
+      "label": "yandex.com (Yandex)",
+      "group": "other",
+      "val": 0.207
+    },
+    {
+      "id": "yandex.ru",
+      "label": "yandex.ru (Yandex)",
+      "group": "other",
+      "val": 0.245
+    },
+    {
+      "id": "yastatic.net",
+      "label": "yastatic.net (Yandex)",
+      "group": "other",
+      "val": 0.061900000000000004
+    },
+    {
+      "id": "yellowblue.io",
+      "label": "yellowblue.io (ironSource)",
+      "group": "other",
+      "val": 0.179
+    },
+    {
+      "id": "yieldmo.com",
+      "label": "yieldmo.com (YieldMo)",
+      "group": "other",
+      "val": 0.795
+    },
+    {
+      "id": "yimg.com",
+      "label": "yimg.com (Verizon Media)",
+      "group": "other",
+      "val": 0.22100000000000003
+    },
+    {
+      "id": "yimg.jp",
+      "label": "yimg.jp (Yahoo Japan)",
+      "group": "other",
+      "val": 0.0937
+    },
+    {
+      "id": "yotpo.com",
+      "label": "yotpo.com (Yotpo)",
+      "group": "other",
+      "val": 0.0924
+    },
+    {
+      "id": "youtube.com",
+      "label": "youtube.com (Google)",
+      "group": "Google",
+      "val": 0.6940000000000001
+    },
+    {
+      "id": "ytimg.com",
+      "label": "ytimg.com (Google)",
+      "group": "Google",
+      "val": 0.388
+    },
+    {
+      "id": "zdassets.com",
+      "label": "zdassets.com (Zendesk)",
+      "group": "other",
+      "val": 0.131
+    },
+    {
+      "id": "zemanta.com",
+      "label": "zemanta.com (Outbrain)",
+      "group": "other",
+      "val": 1.04
+    },
+    {
+      "id": "zencdn.net",
+      "label": "zencdn.net (Brightcove)",
+      "group": "other",
+      "val": 0.0665
+    },
+    {
+      "id": "zendesk.com",
+      "label": "zendesk.com (Zendesk)",
+      "group": "other",
+      "val": 0.112
+    },
+    {
+      "id": "zeotap.com",
+      "label": "zeotap.com (Zeotap)",
+      "group": "other",
+      "val": 0.0543
+    },
+    {
+      "id": "zopim.com",
+      "label": "zopim.com (Zendesk)",
+      "group": "other",
+      "val": 0.078
+    }
+  ],
+  "links": [
+    {
+      "source": "1rx.io",
+      "target": "yieldmo.com",
+      "value": 1
+    },
+    {
+      "source": "2mdn.net",
+      "target": "imasdk.googleapis.com",
+      "value": 1
+    },
+    {
+      "source": "33across.com",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "360yield.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "3lift.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "4dex.io",
+      "target": "ezodn.com",
+      "value": 1
+    },
+    {
+      "source": "a-mo.net",
+      "target": "ezodn.com",
+      "value": 1
+    },
+    {
+      "source": "a-mx.com",
+      "target": "ezodn.com",
+      "value": 1
+    },
+    {
+      "source": "acuityplatform.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "ad-delivery.net",
+      "target": "btloader.com",
+      "value": 1
+    },
+    {
+      "source": "ad.gt",
+      "target": "hadronid.net",
+      "value": 1
+    },
+    {
+      "source": "addthisedge.com",
+      "target": "addthis.com",
+      "value": 1
+    },
+    {
+      "source": "adentifi.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "adform.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "adgrx.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "adingo.jp",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "adition.com",
+      "target": "outbrain.com",
+      "value": 1
+    },
+    {
+      "source": "adkernel.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "adlightning.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "admanmedia.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "admedo.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "admixer.net",
+      "target": "omnitagjs.com",
+      "value": 1
+    },
+    {
+      "source": "adnxs.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "adotmob.com",
+      "target": "omnitagjs.com",
+      "value": 1
+    },
+    {
+      "source": "adroll.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "ads-twitter.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "adscale.de",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "adsrvr.org",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "adswizz.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "adsymptotic.com",
+      "target": "sharethis.com",
+      "value": 1
+    },
+    {
+      "source": "advertising.com",
+      "target": "infolinks.com",
+      "value": 1
+    },
+    {
+      "source": "affec.tv",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "agkn.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "akstat.io",
+      "target": "go-mpulse.net",
+      "value": 1
+    },
+    {
+      "source": "alcmpn.com",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "amazon-adsystem.com",
+      "target": "rubiconproject.com",
+      "value": 1
+    },
+    {
+      "source": "amazon.dev",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "ampproject.org",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "appier.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "atemda.com",
+      "target": "contextweb.com",
+      "value": 1
+    },
+    {
+      "source": "attentivemobile.com",
+      "target": "attn.tv",
+      "value": 1
+    },
+    {
+      "source": "audrte.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "avct.cloud",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "betweendigital.com",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "bfmio.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "bidr.io",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "bidswitch.net",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "bidtheatre.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "bing.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "bkrtx.com",
+      "target": "sharethis.com",
+      "value": 1
+    },
+    {
+      "source": "blismedia.com",
+      "target": "lijit.com",
+      "value": 1
+    },
+    {
+      "source": "bluecava.com",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "bluekai.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "brand-display.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "brandmetrics.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "btloader.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "bttrack.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "casalemedia.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "chartbeat.net",
+      "target": "chartbeat.com",
+      "value": 1
+    },
+    {
+      "source": "chocolateplatform.com",
+      "target": "contextweb.com",
+      "value": 1
+    },
+    {
+      "source": "cintnetworks.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "clarium.io",
+      "target": "confiant-integrations.net",
+      "value": 1
+    },
+    {
+      "source": "clickagy.com",
+      "target": "lijit.com",
+      "value": 1
+    },
+    {
+      "source": "clickcertain.com",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "cognitivlabs.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "colossusssp.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "company-target.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "confiant-integrations.net",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "contentsquare.net",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "contextweb.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "cookieless-data.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "cpmstar.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "crazyegg.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "creative-serving.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "creativecdn.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "criteo.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "criteo.net",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "crsspxl.com",
+      "target": "sharethis.com",
+      "value": 1
+    },
+    {
+      "source": "crwdcntrl.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "ctnsnet.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "deepintent.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "demdex.net",
+      "target": "adobedtm.com",
+      "value": 1
+    },
+    {
+      "source": "dotomi.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "doubleclick.net",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "doubleverify.com",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "dtscdn.com",
+      "target": "dtscout.com",
+      "value": 1
+    },
+    {
+      "source": "dtscout.com",
+      "target": "histats.com",
+      "value": 1
+    },
+    {
+      "source": "dtssrv.com",
+      "target": "dtscout.com",
+      "value": 1
+    },
+    {
+      "source": "e-volution.ai",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "eqads.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "eu-1-id5-sync.com",
+      "target": "id5-sync.com",
+      "value": 1
+    },
+    {
+      "source": "everesttech.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "exelator.com",
+      "target": "outbrain.com",
+      "value": 1
+    },
+    {
+      "source": "eyeota.net",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "facebook.com",
+      "target": "facebook.net",
+      "value": 1
+    },
+    {
+      "source": "fastclick.net",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "fbcdn.net",
+      "target": "facebook.com",
+      "value": 1
+    },
+    {
+      "source": "fksnk.com",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "flashtalking.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "fwmrm.net",
+      "target": "stickyadstv.com",
+      "value": 1
+    },
+    {
+      "source": "geistm.com",
+      "target": "outbrain.com",
+      "value": 1
+    },
+    {
+      "source": "ggpht.com",
+      "target": "youtube.com",
+      "value": 1
+    },
+    {
+      "source": "google-analytics.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "google.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "googleadservices.com",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "googlesyndication.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "googletagservices.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "grow.me",
+      "target": "mediavine.com",
+      "value": 1
+    },
+    {
+      "source": "gstatic.com",
+      "target": "fonts.googleapis.com",
+      "value": 1
+    },
+    {
+      "source": "gumgum.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "hadronid.net",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "hotjar.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "hotjar.io",
+      "target": "hotjar.com",
+      "value": 1
+    },
+    {
+      "source": "hs-analytics.net",
+      "target": "hs-scripts.com",
+      "value": 1
+    },
+    {
+      "source": "hs-banner.com",
+      "target": "hs-scripts.com",
+      "value": 1
+    },
+    {
+      "source": "hsadspixel.net",
+      "target": "hs-scripts.com",
+      "value": 1
+    },
+    {
+      "source": "hscollectedforms.net",
+      "target": "hs-scripts.com",
+      "value": 1
+    },
+    {
+      "source": "hsleadflows.net",
+      "target": "hs-scripts.com",
+      "value": 1
+    },
+    {
+      "source": "hubapi.com",
+      "target": "hsadspixel.net",
+      "value": 1
+    },
+    {
+      "source": "hubspot.com",
+      "target": "hs-analytics.net",
+      "value": 1
+    },
+    {
+      "source": "ib-ibi.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "id5-sync.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "im-apps.net",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "imasdk.googleapis.com",
+      "target": "connatix.com",
+      "value": 1
+    },
+    {
+      "source": "impactradius-event.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "indexww.com",
+      "target": "casalemedia.com",
+      "value": 1
+    },
+    {
+      "source": "infolinks.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "inmobi.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "ipredictive.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "iprom.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "ispot.tv",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "ivitrack.com",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "jnn-pa.googleapis.com",
+      "target": "youtube.com",
+      "value": 1
+    },
+    {
+      "source": "js7k.com",
+      "target": "yahoo.com",
+      "value": 1
+    },
+    {
+      "source": "jwpcdn.com",
+      "target": "jwplatform.com",
+      "value": 1
+    },
+    {
+      "source": "jwplatform.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "jwplayer.com",
+      "target": "jwplatform.com",
+      "value": 1
+    },
+    {
+      "source": "jwpltx.com",
+      "target": "jwpcdn.com",
+      "value": 1
+    },
+    {
+      "source": "jwpsrv.com",
+      "target": "jwpcdn.com",
+      "value": 1
+    },
+    {
+      "source": "kargo.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "krxd.net",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "ktkjmp.com",
+      "target": "xlivrdr.com",
+      "value": 1
+    },
+    {
+      "source": "liadm.com",
+      "target": "s-onetag.com",
+      "value": 1
+    },
+    {
+      "source": "licdn.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "lijit.com",
+      "target": "s-onetag.com",
+      "value": 1
+    },
+    {
+      "source": "linkedin.com",
+      "target": "licdn.com",
+      "value": 1
+    },
+    {
+      "source": "loopme.me",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "marketiq.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "marketo.net",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "mathtag.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "media6degrees.com",
+      "target": "openx.net",
+      "value": 1
+    },
+    {
+      "source": "mediago.io",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "mediawallahscript.com",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "mfadsrvr.com",
+      "target": "lijit.com",
+      "value": 1
+    },
+    {
+      "source": "mgid.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "microad.jp",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "minutemedia-prebid.com",
+      "target": "servenobid.com",
+      "value": 1
+    },
+    {
+      "source": "mktoresp.com",
+      "target": "marketo.net",
+      "value": 1
+    },
+    {
+      "source": "ml314.com",
+      "target": "sharethis.com",
+      "value": 1
+    },
+    {
+      "source": "moatads.com",
+      "target": "addthis.com",
+      "value": 1
+    },
+    {
+      "source": "mobtrakk.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "mookie1.com",
+      "target": "yellowblue.io",
+      "value": 1
+    },
+    {
+      "source": "mrtnsvr.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "mxptint.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "nrich.ai",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "omnitagjs.com",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "omtrdc.net",
+      "target": "adobedtm.com",
+      "value": 1
+    },
+    {
+      "source": "onaudience.com",
+      "target": "dtscout.com",
+      "value": 1
+    },
+    {
+      "source": "onetag-sys.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "onetrust.com",
+      "target": "cookielaw.org",
+      "value": 1
+    },
+    {
+      "source": "opecloud.com",
+      "target": "tiqcdn.com",
+      "value": 1
+    },
+    {
+      "source": "openx.net",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "openxcdn.net",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "opera.com",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "oribi.io",
+      "target": "licdn.com",
+      "value": 1
+    },
+    {
+      "source": "outbrain.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "outbrainimg.com",
+      "target": "outbrain.com",
+      "value": 1
+    },
+    {
+      "source": "owneriq.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "paypal.com",
+      "target": "paypalobjects.com",
+      "value": 1
+    },
+    {
+      "source": "paypalobjects.com",
+      "target": "paypal.com",
+      "value": 1
+    },
+    {
+      "source": "pdst.fm",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "perfectmarket.com",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "permutive.com",
+      "target": "permutive.app",
+      "value": 1
+    },
+    {
+      "source": "pghub.io",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "piano.io",
+      "target": "jquery.com",
+      "value": 1
+    },
+    {
+      "source": "pinimg.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "pippio.com",
+      "target": "openx.net",
+      "value": 1
+    },
+    {
+      "source": "playground.xyz",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "postrelease.com",
+      "target": "ntv.io",
+      "value": 1
+    },
+    {
+      "source": "privacymanager.io",
+      "target": "rlcdn.com",
+      "value": 1
+    },
+    {
+      "source": "prmutv.co",
+      "target": "permutive.app",
+      "value": 1
+    },
+    {
+      "source": "pro-market.net",
+      "target": "simpli.fi",
+      "value": 1
+    },
+    {
+      "source": "pswec.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "pubmatic.com",
+      "target": "yieldmo.com",
+      "value": 1
+    },
+    {
+      "source": "quantcast.com",
+      "target": "consensu.org",
+      "value": 1
+    },
+    {
+      "source": "quantcount.com",
+      "target": "quantserve.com",
+      "value": 1
+    },
+    {
+      "source": "quantserve.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "reddit.com",
+      "target": "redditstatic.com",
+      "value": 1
+    },
+    {
+      "source": "redditstatic.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "resetdigital.co",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "rezync.com",
+      "target": "tynt.com",
+      "value": 1
+    },
+    {
+      "source": "rfihub.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "rkdms.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "rlcdn.com",
+      "target": "openx.net",
+      "value": 1
+    },
+    {
+      "source": "rqtrk.eu",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "rtactivate.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "rtbhouse.com",
+      "target": "creativecdn.com",
+      "value": 1
+    },
+    {
+      "source": "rtbsystem.com",
+      "target": "outbrain.com",
+      "value": 1
+    },
+    {
+      "source": "rubiconproject.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "sail-personalize.com",
+      "target": "sail-horizon.com",
+      "value": 1
+    },
+    {
+      "source": "salesforceliveagent.com",
+      "target": "force.com",
+      "value": 1
+    },
+    {
+      "source": "samplicio.us",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "sascdn.com",
+      "target": "smartadserver.com",
+      "value": 1
+    },
+    {
+      "source": "sc-static.net",
+      "target": "snapchat.com",
+      "value": 1
+    },
+    {
+      "source": "sda.fyi",
+      "target": "mediavine.com",
+      "value": 1
+    },
+    {
+      "source": "sddan.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "securedvisit.com",
+      "target": "s-onetag.com",
+      "value": 1
+    },
+    {
+      "source": "segment.io",
+      "target": "segment.com",
+      "value": 1
+    },
+    {
+      "source": "semasio.net",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "serving-sys.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "shareaholic.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "sharethrough.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "shop.app",
+      "target": "shopify.com",
+      "value": 1
+    },
+    {
+      "source": "simpli.fi",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "siteimproveanalytics.io",
+      "target": "siteimproveanalytics.com",
+      "value": 1
+    },
+    {
+      "source": "sitescout.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "smaato.net",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "smadex.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "smartadserver.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "smilewanted.com",
+      "target": "ezodn.com",
+      "value": 1
+    },
+    {
+      "source": "snapchat.com",
+      "target": "sc-static.net",
+      "value": 1
+    },
+    {
+      "source": "socdm.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "sportradarserving.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "spot.im",
+      "target": "omnitagjs.com",
+      "value": 1
+    },
+    {
+      "source": "spotim.market",
+      "target": "omnitagjs.com",
+      "value": 1
+    },
+    {
+      "source": "spotxchange.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "stackadapt.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "stickyadstv.com",
+      "target": "criteo.com",
+      "value": 1
+    },
+    {
+      "source": "storygize.net",
+      "target": "bfmio.com",
+      "value": 1
+    },
+    {
+      "source": "stripe.network",
+      "target": "stripe.com",
+      "value": 1
+    },
+    {
+      "source": "t.co",
+      "target": "ads-twitter.com",
+      "value": 1
+    },
+    {
+      "source": "tapad.com",
+      "target": "yieldmo.com",
+      "value": 1
+    },
+    {
+      "source": "taptapnetworks.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "teads.tv",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "tealiumiq.com",
+      "target": "tiqcdn.com",
+      "value": 1
+    },
+    {
+      "source": "technoratimedia.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "thrtle.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "tidaltv.com",
+      "target": "bfmio.com",
+      "value": 1
+    },
+    {
+      "source": "tiktok.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "travelaudience.com",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "tremorhub.com",
+      "target": "taboola.com",
+      "value": 1
+    },
+    {
+      "source": "trial-eum-clientnsv4-s.akamaihd.net",
+      "target": "go-mpulse.net",
+      "value": 1
+    },
+    {
+      "source": "trial-eum-clienttons-s.akamaihd.net",
+      "target": "go-mpulse.net",
+      "value": 1
+    },
+    {
+      "source": "tribalfusion.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "truffle.bid",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "truoptik.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "turn.com",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "tvsquared.com",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "twimg.com",
+      "target": "twitter.com",
+      "value": 1
+    },
+    {
+      "source": "twitter.com",
+      "target": "ads-twitter.com",
+      "value": 1
+    },
+    {
+      "source": "tynt.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "uidapi.com",
+      "target": "doubleclick.net",
+      "value": 1
+    },
+    {
+      "source": "undertone.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "unrulymedia.com",
+      "target": "yieldmo.com",
+      "value": 1
+    },
+    {
+      "source": "us-central1-adaptive-growth.cloudfunctions.net",
+      "target": "pdst.fm",
+      "value": 1
+    },
+    {
+      "source": "userreport.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "uuidksinc.net",
+      "target": "googlesyndication.com",
+      "value": 1
+    },
+    {
+      "source": "vidoomy.com",
+      "target": "ezodn.com",
+      "value": 1
+    },
+    {
+      "source": "viglink.com",
+      "target": "s-onetag.com",
+      "value": 1
+    },
+    {
+      "source": "vimeocdn.com",
+      "target": "vimeo.com",
+      "value": 1
+    },
+    {
+      "source": "visualstudio.com",
+      "target": "msecnd.net",
+      "value": 1
+    },
+    {
+      "source": "vrtcal.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "w55c.net",
+      "target": "pubmatic.com",
+      "value": 1
+    },
+    {
+      "source": "weborama.fr",
+      "target": "sddan.com",
+      "value": 1
+    },
+    {
+      "source": "wknd.ai",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "www.googleapis.com",
+      "target": "google.com",
+      "value": 1
+    },
+    {
+      "source": "xlivrdr.com",
+      "target": "tsyndicate.com",
+      "value": 1
+    },
+    {
+      "source": "yahoo.co.jp",
+      "target": "yimg.jp",
+      "value": 1
+    },
+    {
+      "source": "yahoo.com",
+      "target": "adthrive.com",
+      "value": 1
+    },
+    {
+      "source": "yandex.com",
+      "target": "yandex.ru",
+      "value": 1
+    },
+    {
+      "source": "yandex.ru",
+      "target": "yastatic.net",
+      "value": 1
+    },
+    {
+      "source": "yastatic.net",
+      "target": "yandex.ru",
+      "value": 1
+    },
+    {
+      "source": "yellowblue.io",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "yieldmo.com",
+      "target": "amazon-adsystem.com",
+      "value": 1
+    },
+    {
+      "source": "yimg.jp",
+      "target": "googletagmanager.com",
+      "value": 1
+    },
+    {
+      "source": "ytimg.com",
+      "target": "youtube.com",
+      "value": 1
+    },
+    {
+      "source": "zemanta.com",
+      "target": "gumgum.com",
+      "value": 1
+    },
+    {
+      "source": "zendesk.com",
+      "target": "zdassets.com",
+      "value": 1
+    },
+    {
+      "source": "zeotap.com",
+      "target": "crwdcntrl.net",
+      "value": 1
+    },
+    {
+      "source": "zopim.com",
+      "target": "zdassets.com",
+      "value": 1
+    }
+  ]
+}
