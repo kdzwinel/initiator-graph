@@ -80,6 +80,6 @@ output.links = output.links.filter(item => nodesMap.has(item.source) && nodesMap
 
 output.nodes = Array.from(nodesMap.values());
 
-fs.writeFileSync(path.join('./page/', 'output.json'), JSON.stringify(output, null, 2));
+fs.writeFileSync(path.join('./docs/', 'output.json'), JSON.stringify(output, null, 2));
 
 console.log(stats);
